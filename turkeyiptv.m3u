@@ -1,0 +1,41 @@
+﻿#EXTM3U
+#EXTINF:-1,1NTVSPOR HD YENI
+http://46.105.233.106:8484/ntvspor.ts
+#EXTINF:-1,2beIN FUTBOL HD
+http://46.105.233.106:8484/ntvspor.ts
+#EXTINF:-1,beINSPORTS HD 1
+http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:-1,beIN HD 1
+https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8
+#EXTINF:-1,beIN HD 2
+https://x.birakmamseni.xyz/kaynakstreamradarco/25/strmrdr.m3u8
+#EXTINF:-1,LIG TV HD
+http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:-1,S SPORT HD 1
+https://x.birakmamseni.xyz/kaynakstreamradarco/58/strmrdr.m3u8
+#EXTINF:-1,TR A SPOR HD
+http://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TRT SPOR HD
+https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TRT SPOR 2 HD
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TJK TV HD
+http://mn-nl.mncdn.com/blutv_tjktv/tjktv_sd.smil/playlist.m3u8
+#EXTINF:-1,TAY TV HD
+https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,GS TV HD
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,IDMAN TV HD
+http://85.132.53.55/azerbaijan/idmanhd/playlist.m3u8
+#EXTINF:-1,CBC SPORT HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1,SINEMA TV HD
+https://tna5.bozztv.com/yansinematv/index.m3u8
+#EXTINF:-1,SINEMA YESILCAM TV HD
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+https://x.birakmamseni.xyz/kaynakstreamradarco/55/strmrdr.m3u8
+#EXTINF:-1,SPORSMART HD 1
+https://x.birakmamseni.xyz/kaynakstreamradarco/60/strmrdr.m3u8
+#EXTINF:-1,TV8 HD 
+http://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
